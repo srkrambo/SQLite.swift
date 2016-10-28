@@ -21,7 +21,6 @@ try db.key("secret")
 
 > _Note:_ SQLiteCipher.swift requires Swift 2 (and [Xcode][] 7) or greater.
 
-
 ### Carthage
 
 [Carthage][] is a simple, decentralized dependency manager for Cocoa. To
@@ -57,7 +56,6 @@ SQLiteCipher.swift with CocoaPods:
 
     pod 'SQLiteCipher.swift',
       git: 'https://github.com/stephencelis/SQLiteCipher.swift.git'
-    ```
 
  3. Run `pod install`.
 
@@ -82,7 +80,6 @@ To install SQLiteCipher.swift as an Xcode sub-project:
 
 [Xcode]: https://developer.apple.com/xcode/downloads/
 [Submodule]: http://git-scm.com/book/en/Git-Tools-Submodules
-
 
 ## License
 
